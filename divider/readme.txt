@@ -1,0 +1,1 @@
+Simple and fast 16-bit signed divider based on 1/X approximation table.

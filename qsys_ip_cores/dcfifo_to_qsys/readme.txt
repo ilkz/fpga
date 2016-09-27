@@ -1,0 +1,1 @@
+Simple IP-core that drive DCFIFO to Qsys system.
